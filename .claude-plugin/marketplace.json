@@ -12,6 +12,14 @@
         "repo": "adamrdrew/ushabti"
       },
       "description": "Adds the Ushabti agentic development framework."
+    },
+        {
+      "name": "applescript-mcp",
+      "source": {
+        "source": "github",
+        "repo": "adamrdrew/applescript-mcp"
+      },
+      "description": "Adds an MCP server that provides LLM access to macOS AppleScript automation."
     }
   ]
 }
