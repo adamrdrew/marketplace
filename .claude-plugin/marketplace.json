@@ -1,0 +1,17 @@
+{
+  "name": "adamdrew",
+  "owner": {
+    "name": "Adam Drew",
+    "email": "adamrdrew@live.com"
+  },
+  "plugins": [
+    {
+      "name": "ushabti",
+      "source": {
+        "source": "github",
+        "repo": "adamrdrew/ushabti"
+      },
+      "description": "Adds the Ushabti agentic development framework."
+    }
+  ]
+}
