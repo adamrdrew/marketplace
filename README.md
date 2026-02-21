@@ -10,4 +10,7 @@ This is the Marketplace for my various Claude Code doo dads.
 ## Plugins
 
 * [Ushabti](https://github.com/adamrdrew/ushabti/tree/master)
+
+## MCP
+
 * [AppleScript MCP](https://github.com/adamrdrew/applescript-mcp)
